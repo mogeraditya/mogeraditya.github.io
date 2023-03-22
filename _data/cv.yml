@@ -2,25 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Aditya Moger
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 16th October 2023
+#    - name: Languages
+#      value: English, Kannada
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: College
+      institution: Indian Institute of Science Education and Research, Pune, India
+      year: August 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        BACHELOR OF SCIENCE (RESEARCH) AND MASTER OF SCIENCE (RESEARCH) DUAL DEGREE, BS-MS DUAL DEGREE PROGRAMME
+        BIOLOGY MAJOR
+         - 'Working with support from the KVPY Fellowship, given by DST, Govt. of India. GPA: 8.7 (Lowest: 0, Highest: 10)'
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
