@@ -2,7 +2,7 @@
 layout: page
 title: Auditory cues used by predators
 description: Experimental study to find what auditory cues are used by predators to look for its prey.
-img: assets/img/3.jpg
+img: assets/img/greenlynx.jpg
 importance: 2
 category: work
 ---
