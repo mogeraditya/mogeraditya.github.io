@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Auditory cues used by predators
+description: Experimental study to find what auditory cues are used by predators to look for its prey.
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: summer 2023
 ---
 
 Every project has a beautiful feature showcase page.

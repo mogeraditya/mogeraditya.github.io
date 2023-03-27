@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Vulnerabilty to anthropogenic noise
+description: Trying to find if there is a correlation between phenotypic plasticity and vulnerabilityto anthropogenic noise. 
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: winter 2022
 ---
 
 Every project has a beautiful feature showcase page.
