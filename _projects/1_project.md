@@ -6,7 +6,8 @@ img: assets/img/13.jpg
 importance: 1
 category: work
 ---
-Advised by PhD student Mohammed Amir Sadiq from Prof. Rohini Balakrishnan's lab. <br>
+    Advised by PhD student Mohammed Amir Sadiq from Prof. Rohini Balakrishnan's lab. 
+<br>
 In this project, I studied various different ways in which animals communicate, and about how diverse modes of communications are employed by animals. <br>
 I learnt in great detail about physiological and mechanical constraints for sound production and how animals optimize the sound produced for acoustic signalling. <br>
 I also learnt about Anthropogenic noise, about how it effects animal communication and potential solutions that can be employed to prevent the same.<br>
