@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vulnerabilty to anthropogenic noise
+title: Vulnerabilty to Anthropogenic noise
 description: Trying to find if there is a correlation between phenotypic plasticity and vulnerability to anthropogenic noise. 
 img: assets/img/13.jpg
 importance: 1
