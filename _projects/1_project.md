@@ -6,8 +6,8 @@ img: assets/img/13.jpg
 importance: 1
 category: work
 ---
-Advised by Prof. Rohini Balakrishnan and PhD student Mohammed Amir Sadiq. </n>
-In this project, I studied various different ways in which animals communicate, and about how diverse modes of communications are employed by animals. </n>
-I learnt in great detail about physiological and mechanical constraints for sound production and how animals optimize the sound produced for acoustic signalling. </n>
-I also learnt about Anthropogenic noise, about how it effects animal communication and potential solutions that can be employed to prevent the same.</n>
-Currently writing a Review Article about Plasticity vs Vunerability : Through the lens of anthropogenic noise. I am also trying to find a way to compile information from various studies done on effects of anthropogenic noise on animals and see if there is a signification impact of plasticity on vulnerability of an organism.</n>
+Advised by Prof. Rohini Balakrishnan and PhD student Mohammed Amir Sadiq. <br>
+In this project, I studied various different ways in which animals communicate, and about how diverse modes of communications are employed by animals. <br>
+I learnt in great detail about physiological and mechanical constraints for sound production and how animals optimize the sound produced for acoustic signalling. <br>
+I also learnt about Anthropogenic noise, about how it effects animal communication and potential solutions that can be employed to prevent the same.<br>
+Currently writing a Review Article about Plasticity vs Vunerability : Through the lens of anthropogenic noise. I am also trying to find a way to compile information from various studies done on effects of anthropogenic noise on animals and see if there is a signification impact of plasticity on vulnerability of an organism.<br>
