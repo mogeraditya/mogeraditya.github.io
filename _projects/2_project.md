@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Auditory cues used by predators
-description: Experimental study to find what auditory cues are used by predators to look for its prey.
+title: Effects of induced stress at juvenile phase on behaviour and physiology of adult Rock Agamas
+description: 
 img: assets/img/12.jpg
 importance: 2
 category: work
