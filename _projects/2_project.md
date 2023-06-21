@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Effects of stress on behaviour and physiology.
-description: 
+title: Summer 2023
+description: Effects of induced stress at juvenile phase on behaviour and physiology of adult Rock Agamas.
 img: assets/img/12.jpg
 importance: 2
 category: work
