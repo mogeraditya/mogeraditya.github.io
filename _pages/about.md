@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Hello! I am Aditya, a second year undergrad student at IISER Pune. </p>
+<p> </p>
 
 Hello! I am Aditya Moger and welcome to my website! I'm a passionate 3rd year undergraduate student at IISER Pune, diving into the fascinating world of Ecology and Evolutionary Biology. Currently, I'm thrilled to be interning at [CES IISc](https://ces.iisc.ac.in/), where I'm gaining valuable insights into cutting-edge research at Maria Thaker's [Macrophysiology Lab](https://mariathaker.weebly.com/).
 
