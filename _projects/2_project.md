@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Effects of induced stress at juvenile phase on behaviour and physiology of adult Rock Agamas
+title: Effects of stress on behaviour and physiology.
 description: 
 img: assets/img/12.jpg
 importance: 2
@@ -8,7 +8,7 @@ category: work
 ---
 
 Work : 
-
+induced stress at juvenile phase on behaviour and physiology of adult Rock Agamas
     ---
     layout: page
     title: project
