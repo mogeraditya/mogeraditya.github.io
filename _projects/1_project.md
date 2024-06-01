@@ -4,7 +4,7 @@ title: Summer 2023
 description: Effects of induced stress at juvenile phase on behaviour and physiology of adult Rock Agamas.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Past
 ---
 
 In my past summer, I worked with Dr. Maria Thaker and Subhasmita Patro to study the effects of early-life stress on development, predator avoidance and immune response of lizards. This study was crucial as it gives us insights on how urban lizards cope with stress that comes as a consequence of staying in human dominated areas.<br> 

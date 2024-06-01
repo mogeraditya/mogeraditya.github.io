@@ -13,19 +13,21 @@ profile:
     <p>on a hill</p>
     <p></p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: False  # includes a list of news items
+selected_papers: False # includes a list of papers marked as "selected={true}"
+social: False  # includes social icons at the bottom of the page
 ---
 
 <p> </p>
 
-Hello! I am Aditya Moger and welcome to my website! I'm a passionate 3rd year undergraduate student at IISER Pune, diving into the fascinating world of Ecology and Evolutionary Biology. 
+Hello! I am Aditya Moger, a 4rd year undergraduate student at IISER Pune, and welcome to my website! I love science and I love the life around me, and research in ecology is my way to collate my diverse interests. 
 
-Currently, I am an intern at [Cancer Systems Biology lab](https://be.iisc.ac.in/~mkjolly/) at IISc, Bangalore. I am studying networks using computer models and boolean simulations to better understand how groups of nodes can be classified into different teams using just the spectral information about the topology of the network. Teams are networks that arise from extending toggle switch like structure onto multiple nodes.
+Currently, I am an intern at [Animal Communication and Bioacoustics lab](https://sites.google.com/view/rohinibalakrishnanlab/home) at IISc, Bangalore. I am working under the guidance of Prof. Rohini Balakrishnan and Arpit Omprakash on building a Machine Learning Classifier for fine scale audio data to detect avian vocalizations. 
 
-In my past, I interned at [CES IISc](https://ces.iisc.ac.in/), where I'm gaining valuable insights into cutting-edge research at Maria Thaker's [Macrophysiology Lab](https://mariathaker.weebly.com/).
+In my past, I interned at [CES IISc](https://ces.iisc.ac.in/), where I'm gaining valuable insights into sensory ecology, mating behavior and  at Prof. Maria Thaker's [Macrophysiology Lab](https://mariathaker.weebly.com/). I also worked with Prof. Mohit Kumar Jolly at the [Cancer Systems Biology lab](https://be.iisc.ac.in/~mkjolly/) at IISc, Bangalore. For more details, check out the projects section on this webpage! 
 
-Beyond the realm of academia, I find inspiration in the areas of art, music, and photography. Exploring the intersection of science and art is quite fun. I also love teaching and learning the most arbitrary topics.
+I am studying networks using computer models and boolean simulations to better understand how groups of nodes can be classified into different teams using just the spectral information about the topology of the network. Teams are networks that arise from extending toggle switch like structure onto multiple nodes.
+
+Beyond academia, I find inspiration in the areas of art, music, and photography. Exploring the intersection of science and art is quite fun. I also love teaching and learning the most arbitrary topics. You can find some of my photographs at < insert link >.
 
 Feel free to explore my website and connect with me. 🌿🎶✨

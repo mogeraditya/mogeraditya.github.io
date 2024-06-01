@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Winter 2023
-description: Effects of induced stress at juvenile phase on behaviour and physiology of adult Rock Agamas.
+description: Two teams to Three teams; network properties and general principles.
 img: assets/img/12.jpg
 importance: 2
-category: work
+category: Past
 ---
 
 In my past summer, I worked with Dr. Maria Thaker and Subhasmita Patro to study the effects of early-life stress on development, predator avoidance and immune response of lizards. This study was crucial as it gives us insights on how urban lizards cope with stress that comes as a consequence of staying in human dominated areas.<br> 
 In this project, I helped with collecting blood samples of lizards to measure their cortisol levels, helped in conducting various behavior assays and learnt how to handle wild animals with care and this made me comfortable with working in the experimental side of biology. I also helped in annotation of the data collected from experiments, designed a protocol on my own for data scoring and also analysed this data. Helping out other people in the lab with field-work, like wild animal capture and handling, has made me proficient in outdoor field-based work.<br>
 
-Some photos from the field :) <br>
+Some photos from the field <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
