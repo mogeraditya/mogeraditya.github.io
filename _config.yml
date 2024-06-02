@@ -156,9 +156,9 @@ disqus_shortname: # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: instagram.com
-    rss_url: https://www.instagram.com/aditya.moger
+# external_sources:
+#   - name: instagram.com
+#     rss_url: https://www.instagram.com/aditya.moger
 
 # -----------------------------------------------------------------------------
 # Collections
