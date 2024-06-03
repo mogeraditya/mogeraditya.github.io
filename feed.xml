@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://mogeraditya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mogeraditya.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-03T16:53:34+00:00</updated><id>https://mogeraditya.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal website.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://mogeraditya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mogeraditya.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-03T16:57:57+00:00</updated><id>https://mogeraditya.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal website.
 </subtitle><entry><title type="html">Birding at Jubilee garden</title><link href="https://mogeraditya.github.io/blog/2024/images/" rel="alternate" type="text/html" title="Birding at Jubilee garden" /><published>2024-05-30T06:01:00+00:00</published><updated>2024-05-30T06:01:00+00:00</updated><id>https://mogeraditya.github.io/blog/2024/images</id><content type="html" xml:base="https://mogeraditya.github.io/blog/2024/images/"><![CDATA[<p>The day started with an upset stomach and a solitary myna so got all the bad luck out of the way.</p>
 
 <p>I’ll spam bird photos here.</p>
@@ -11,7 +11,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/may_jubilee/whitecheeked_barbet.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/may_jubilee/wcbarbet.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -32,6 +32,9 @@
 </figure>
 
     </div>
+</div>
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
 
@@ -46,8 +49,6 @@
 </figure>
 
     </div>
-</div>
-<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
 
@@ -62,6 +63,9 @@
 </figure>
 
     </div>
+</div>
+<div class="row mt-3">
+    
     <div class="col-sm mt-3 mt-md-0">
         <figure>
 
@@ -101,7 +105,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/may_jubilee/butterfly-3.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/may_jubilee/butterfly-2.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -115,21 +119,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/may_jubilee/butterfly-1.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/may_jubilee/some_butterfly_white-1-1.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/may_jubilee/butterfly.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
