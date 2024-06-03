@@ -2,7 +2,7 @@
 layout: page
 title: Winter 2023
 description: Two teams to Three teams; network properties and general principles.
-img: /assets/img/projects/winter2023/cover.jpg
+img: assets/img/projects/winter2023/cover.jpg
 importance: 2
 category: Past
 ---
