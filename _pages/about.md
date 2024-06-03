@@ -26,6 +26,6 @@ Currently, I am an intern at [Animal Communication and Bioacoustics lab](https:/
 
 In my past, I interned at [CES IISc](https://ces.iisc.ac.in/), where I'm gaining valuable insights into sensory ecology, mating behavior and  at Prof. Maria Thaker's [Macrophysiology Lab](https://mariathaker.weebly.com/). I also worked with Prof. Mohit Kumar Jolly at the [Cancer Systems Biology lab](https://be.iisc.ac.in/~mkjolly/) at IISc, Bangalore. For more details, check out the projects section on this webpage! 
 
-Beyond academia, I find inspiration in the areas of art, music, and photography. Exploring the intersection of science and art is quite fun. I also love teaching and learning the most arbitrary topics. You can find some of my photographs at < insert link >.
+Beyond academia, I find inspiration in the areas of art, music, and photography. Exploring the intersection of science and art is quite fun. I also love teaching and learning the most arbitrary topics. You can find some of my photographs in the [blog section](https://mogeraditya.github.io/blog/category/photography/).
 
 Feel free to explore my website and connect with me. 🌿🎶✨
