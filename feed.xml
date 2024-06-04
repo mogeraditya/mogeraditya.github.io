@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://mogeraditya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mogeraditya.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-04T06:45:11+00:00</updated><id>https://mogeraditya.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal website.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://mogeraditya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mogeraditya.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-04T06:49:27+00:00</updated><id>https://mogeraditya.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal website.
 </subtitle><entry><title type="html">Birding at Jubilee garden</title><link href="https://mogeraditya.github.io/blog/2024/birding/" rel="alternate" type="text/html" title="Birding at Jubilee garden" /><published>2024-05-30T06:01:00+00:00</published><updated>2024-05-30T06:01:00+00:00</updated><id>https://mogeraditya.github.io/blog/2024/birding</id><content type="html" xml:base="https://mogeraditya.github.io/blog/2024/birding/"><![CDATA[<p>The day started with an upset stomach and a solitary myna so got all the bad luck out of the way.</p>
 
 <p>I’ll spam bird photos here.</p>
@@ -234,11 +234,9 @@ Let’s look at what the US government implemented to try and control Malaria, b
 
 <p>During World War 1, the soldiers training in the South started catching the disease. During the great depression in 1933, this worsened due to poor economic conditions, reporting well over a million cases! This is when deaths due to Malaria peaked the most.</p>
 
-<h3 id="interventions">Interventions!</h3>
+<h3 id="interventions">Interventions</h3>
 
-<p>Settlement of Americans meant that the new settlers had to find suitable habitable areas that also did not have Malaria.</p>
-
-<p>Around 1897, Ross discovered that mosquitos were the ones transmitting the disease. Once this was known, people started looking at ways to attack mosquitos directly. However, adult mosquitos are hard to get rid of, and hence, it was decided to attack mosquitos at the most vulnerable stage of their life cycle, their larval stage. As mentioned before, mosquitos lay their eggs in marshy stagnant water, which hatch into larvae and then into full-grown adult mosquitos. Therefore, one way to hit them where it hurts is to eliminate their breeding grounds, the marshy stagnant waters!</p>
+<p>Settlement of Americans came with the added problem of malaria; new settlers had to not only find suitable habitable areas but also areas free of the disease. Around 1897, Ross discovered that mosquitos were the ones transmitting the disease. Once this was known, people started looking at ways to attack mosquitos directly. However, adult mosquitos are hard to get rid of, and hence, it was decided to attack mosquitos at the most vulnerable stage of their life cycle, their larval stage. As mentioned before, mosquitos lay their eggs in marshy stagnant water, which hatch into larvae and then into full-grown adult mosquitos. Therefore, one way to hit them where it hurts is to eliminate their breeding grounds, the marshy stagnant waters!</p>
 
 <p>Let’s talk about William Gorgas, the chief sanitary officer (1904-1913) of the Panama Canal Commission and the “conqueror of Panama Canal fevers”. The construction of the Panama Canal was challenging because of the water logging and the mosquitos that came from it. Gorgas did the first practical demonstrations of disease eradication via anti-mosquito campaigns. His approach mainly included drainage, screening, hand-killing of adult mosquitos, and usage of quinine in the treatment of active cases. He even recruited children, paying them money per dead mosquito they “harvest.” Though his methods were very crude, he still successfully reduced the cases by as much as 80%!
 Gorgas’s method of malaria eradication was very labor and cost-intensive, the budget of which far exceeded that of the amount of money the southern states had for overall public health work. The South, titled by Roosevelt as “the Nation’s No. 1 economic problem”, was already poor, and Malaria contributed to this poverty. It’s hard to improve your financial condition when you have periodic and frequent anemia, fever, and chills. For example, Malaria peaked in August and September, which kept the farmers bedridden during the critical harvest days of the South’s primary agricultural produce, cotton.</p>
@@ -273,7 +271,7 @@ During 1916, they started their project in the delta, controlling mosquito level
 <h2 id="references">References </h2>
 
 <ul>
-  <li>[https://es.m.wikipedia.org/wiki/Archivo:AL1887<em>pg190_Map_Death_from_Malaria</em>%28US,<em>1880_Census%29.jpg](https://es.m.wikipedia.org/wiki/Archivo:AL1887_pg190_Map_Death_from_Malaria</em>%28US,_1880_Census%29.jpg)</li>
+  <li><a href="https://es.m.wikipedia.org/wiki/Archivo:AL1887_pg190_Map_Death_from_Malaria_%28US,_1880_Census%29.jpg">Image credits</a></li>
   <li><a href="https://commons.wikimedia.org/wiki/File:United_States_Slavery_Map_1860-sw.jpg">File:United States Slavery Map 1860-sw.jpg - Wikimedia Commons</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0014498313000363">The effects of the Works Progress Administration’s anti-malaria programs in Georgia 1932–1947 - ScienceDirect</a></li>
   <li><a href="https://www.cdc.gov/malaria/about/history/ross.html#:~:text=On%2020%20August%201897%2C%20in,of%20malaria%20parasites%20in%20humans">Ross and the Discovery that Mosquitoes Transmit Malaria Parasites</a>.</li>
@@ -281,16 +279,7 @@ During 1916, they started their project in the delta, controlling mosquito level
   <li><a href="https://ajph.aphapublications.org/doi/pdfplus/10.2105/AJPH.38.7.931">https://ajph.aphapublications.org/doi/pdfplus/10.2105/AJPH.38.7.931</a></li>
   <li><a href="https://www.cdc.gov/malaria/about/history/elimination_us.html">History - Elimination of Malaria in the United States (1947-1951)</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4007881/#bib4">Eliminating Malaria in the American South: An Analysis of the Decline of Malaria in 1930s Alabama - PMC</a></li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[Should DDT Be Used to Combat Malaria?</td>
-          <td>Scientific American](https://www.scientificamerican.com/article/ddt-use-to-combat-malaria/)</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://www.scientificamerican.com/article/ddt-use-to-combat-malaria/">Should DDT Be Used to Combat Malaria? Scientific American</a></li>
   <li><a href="https://www.healthline.com/health-news/why-a-malaria-vaccine-isnt-available-in-the-united-states">Why a Malaria Vaccine Isn’t Available in the United States</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3026700/">Some Lessons for the Future from the Global Malaria Eradication Programme (1955–1969)</a></li>
   <li><a href="https://www.cdc.gov/malaria/about/history/ross.html#:~:text=On%2020%20August%201897%2C%20in,of%20malaria%20parasites%20in%20humans">Ross and the Discovery that Mosquitoes Transmit Malaria Parasites</a>.</li>
@@ -300,16 +289,7 @@ During 1916, they started their project in the delta, controlling mosquito level
   <li><a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimated-number-of-malaria-cases">Estimated number of malaria cases</a></li>
   <li><a href="http://whale.to/a/african_d_stats_q.html">African disease statistics</a></li>
   <li><a href="https://www.insectman.us/articles/mosquitoes/mosquito-origin-of-mosquitoes.htm">https://www.insectman.us/articles/mosquitoes/mosquito-origin-of-mosquitoes.htm</a></li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[The President’s Malaria Initiative and Other U.S. Government Global Malaria Efforts</td>
-          <td>KFF](https://www.kff.org/global-health-policy/fact-sheet/the-presidents-malaria-initiative-and-other-u-s-government-global-malaria-efforts/) </td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://www.kff.org/global-health-policy/fact-sheet/the-presidents-malaria-initiative-and-other-u-s-government-global-malaria-efforts/">The President’s Malaria Initiative and Other U.S. Government Global Malaria Efforts</a> </li>
   <li><a href="https://www.canadafreepress.com/2005/driessen052005.htm">https://www.canadafreepress.com/2005/driessen052005.htm</a></li>
   <li><a href="https://www.who.int/news-room/fact-sheets/detail/malaria">Malaria</a></li>
   <li><a href="https://www.youtube.com/watch?v=JXST_9ach1w">How Malaria Was Eradicated In The U.S.</a></li>
