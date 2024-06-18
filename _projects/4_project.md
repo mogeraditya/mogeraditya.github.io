@@ -7,4 +7,4 @@ importance: 1
 category: Past
 ---
 
-###  [Github repo link](https://github.com/mogeraditya/man-vs-BirdNet-summer-2024)
+< Section is still being written >

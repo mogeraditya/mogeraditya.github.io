@@ -7,4 +7,4 @@ importance: 1
 category: Current
 ---
 
-###  [Github repo link](https://github.com/mogeraditya/man-vs-BirdNet-summer-2024)
+This project is still in progress. Feel free to contact me via my (email)[aditya.moger@students.iiserpune.ac.in] if you would like to talk about this project, I am always open to exchanging ideas.
