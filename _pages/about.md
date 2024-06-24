@@ -6,11 +6,11 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_new.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>just a monkey</p>
-    <p>on a hill</p>
+    <p>me on</p>
+    <p>the thermal camera</p>
     <p></p>
 
 news: False  # includes a list of news items
