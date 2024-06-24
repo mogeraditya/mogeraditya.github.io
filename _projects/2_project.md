@@ -13,6 +13,6 @@ I am studying networks using computer models and boolean simulations to better u
 We recently presented a poster at the Physics of Cells and Tissues (PoCT 2024). Here's the poster:
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/projects/winter2023/poster2024_ow.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/projects/winter2023/poster2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
