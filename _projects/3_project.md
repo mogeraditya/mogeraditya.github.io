@@ -7,4 +7,4 @@ importance: 1
 category: Past
 ---
 
-This project is still in progress. Feel free to contact me via my (email)[aditya.moger@students.iiserpune.ac.in] if you would like to talk about this project, I am always open to exchanging ideas.
+This project is still in progress. Feel free to contact me via my (email)[mailto:aditya.moger@students.iiserpune.ac.in] if you would like to talk about this project, I am always open to exchanging ideas.

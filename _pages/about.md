@@ -26,4 +26,4 @@ I have worked on diverse projects in the past. I interned at [CES IISc](https://
 
 Beyond academia, I find inspiration in the areas of art, music, and photography. Exploring the intersection of science and art is quite fun. I also love teaching and learning the most arbitrary topics. You can find some of my photography, music and other blogs in the [blog section](https://mogeraditya.github.io/blog/category/photography/). This section is still a work in progress :P
 
-Feel free to explore my website and [drop me an email](aditya.moger@uni-konstanz.de) anytime you want to talk. 🌿🎶✨
+Feel free to explore my website and [drop me an email](mailto:aditya.moger@uni-konstanz.de) anytime you want to talk. 🌿🎶✨
